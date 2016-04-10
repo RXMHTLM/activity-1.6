@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>HTML Line Orientation</title>
+<meta charset="utf-8/>
+
+</head>
+
+<body>
+	<h1>Poetry As an Example of Line Orientation</h1>
+	
+	<blockquote>
+	<h2>Pastoral<h2>
+William Carlos Williams, 1883 - 1963
+
+The little sparrows
+Hop ingenuously
+About the pavement
+Quarreling
+With sharp voices
+Over those things
+That interest them.
+But we who are wiser
+Shut ourselves in
+On either hand
+And no one knows
+Whether we think good
+Or evil.
+                  Then again,
+The old man who goes about
+Gathering dog lime
+Walks in the gutter
+Without looking up
+And his tread
+Is more majestic than
+That of the Episcopal minister
+Approaching the pulpit
+Of a Sunday.
+These things
+Astonish me beyond words.
+
+</blockquote>
+
+<p>The poem is in the public domain</p>
+
+<h3>One Word - Three Definitions</h3>
+
+<!-- I am using the defintion list tags <dl>(lsit) <dt> (term <dd> (difinition), instead of the ordered list or unordered list tags. -->
+	<dl>
+		<dt>Word<dt>
+				<dd>A sound or a combination of sounds, or its representation in writing or printing, that symbolizes and communicates a meaning and may consist of a single morpheme or of a combination of morphemes.</dd>
+				<dd>Something said; an utterance, remark, or comment: <em>May I say a word about that?</em></dd>
+				<dd>Computer Science - A set of bits constituting the smallest unit of addressable memory.</dd>
+	</dl>
+	
+	</body>
+	
+	</html>
+
+		
